@@ -40,12 +40,12 @@ go mod tidy
 go run main.go
 ```
 
-### 4️⃣ 编译可执行文件
+### 5️⃣ 编译可执行文件
 ```sh
 go build main.go
 ```
 
-### 4️⃣ 终端
+### 6️⃣ 选择项目
 ![img.png](img.png)
 
 ## 使用方法
